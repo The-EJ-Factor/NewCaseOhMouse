@@ -72,7 +72,7 @@ class Program
     // ===================== Physics =====================
 
     static double bounce = 0.7;
-    static double baseWeight = 10.0; // higher = more inertia
+    static double baseWeight = 3.0; // higher = more inertia
     static double friction = 0.992;   //value from 0-1, higher means more friction
     static double gravity = 0.6;
 
